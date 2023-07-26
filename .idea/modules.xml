@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/pythonOPENCV.iml" filepath="$PROJECT_DIR$/.idea/pythonOPENCV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/open-cv-cookbook.iml" filepath="$PROJECT_DIR$/.idea/open-cv-cookbook.iml" />
     </modules>
   </component>
 </project>
