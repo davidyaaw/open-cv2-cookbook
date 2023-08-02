@@ -1,5 +1,5 @@
 # open-cv2-cookbook
-my open-cv spells
+
 This repo exists to save some interactions and spells for open cv basics.
 
 
